@@ -10,4 +10,4 @@ MSched significantly improves system throughput (22x) in multi-tasking scenarios
 - Workloads: **8** [llama.cpp](https://github.com/ggml-org/llama.cpp) instances running [Llama3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B) decoding (int8-quantized, 8.5 GB each)
 - Scheduling policy: time-sliced round-robin policy
 
-https://github.com/user-attachments/assets/546e598f-0459-489b-8c55-9fb8ecb38592
+https://github.com/user-attachments/assets/81914903-6f00-4b6f-8b3f-b5a4f24db669
